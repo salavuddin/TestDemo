@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon" duration-ms="40548" started-at="2019-01-24T08:36:19Z" finished-at="2019-01-24T08:37:00Z">
+    <groups>
+    </groups>
+    <test name="AmazonTest" duration-ms="40548" started-at="2019-01-24T08:36:19Z" finished-at="2019-01-24T08:37:00Z">
+      <class name="com.amazon.TestCases.AddToCardPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.TestCases.AddToCardPageTest@51efea79]" name="setup" is-config="true" duration-ms="36799" started-at="2019-01-24T14:06:19Z" finished-at="2019-01-24T14:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addtocard()[pri:0, instance:com.amazon.TestCases.AddToCardPageTest@51efea79]" name="addtocard" duration-ms="3710" started-at="2019-01-24T14:06:56Z" finished-at="2019-01-24T14:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocard -->
+      </class> <!-- com.amazon.TestCases.AddToCardPageTest -->
+    </test> <!-- AmazonTest -->
+  </suite> <!-- Amazon -->
+</testng-results>
